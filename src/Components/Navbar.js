@@ -20,6 +20,9 @@ export default function Navbar() {
           <a href = "./WilliamGittaResume.pdf" target = "_blank" className = "mr-5 hover:text-white">
               Resume
           </a>
+          <a href="http://blog.williamgitta.com/" className="mr-5 hover:text-white">
+            Blog
+          </a>
         </nav>
         <a
           href="#contact"
